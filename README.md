@@ -9,5 +9,5 @@ Introduction: Our prize winning work in CUMCM20C.
 
  ### Prize
 
-- First prize of CUMCM2020.
+- Second prize of CUMCM2020.
 - First prize of CUMCM2020, Anhui competition area.
